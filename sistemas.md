@@ -38,7 +38,7 @@ Los **VCS centralizados (CVCS)** dieron un gran paso en la colaboración.
 - Los colaboradores se conectan a ese servidor para descargar y subir los cambios.  
 - Permiten mayor control por parte de los administradores, pero presentan un riesgo: si el servidor falla, todo el historial puede perderse.
 
-![Control de versiones centralizado](img/contro3.jpg)
+![Control de versiones centralizado](img/contro3.png)
 
 ---
 
@@ -49,7 +49,7 @@ Los **VCS distribuidos (DVCS)** son los más modernos y seguros.
 - Esto permite trabajar sin conexión a internet y tener un respaldo completo en cada máquina.  
 - Si el servidor falla, cualquier copia local puede restaurar el proyecto.  
 
-![Control de versiones distribuido](img/control4.jpg)
+![Control de versiones distribuido](img/control4.png)
 
 ---
 
