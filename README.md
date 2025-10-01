@@ -1,5 +1,6 @@
 # ControlVersionesGit
 # Índice
+![git](img/gitinicio.png)
 
 [1. Introducción](introducción.md)  
 
