@@ -1,5 +1,5 @@
 # ControlVersionesGit
-<img src="img/gitinicio.png" alt="git" width="400"/>
+<img src="img/githubinicio.png" alt="git" width="400"/>
 
 # Índice
 [1. Introducción](introducción.md)  
