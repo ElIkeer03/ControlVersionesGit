@@ -1,7 +1,7 @@
 # ControlVersionesGit
-# Índice
-![git](img/gitinicio.png)
+<img src="img/gitinicio.png" alt="git" width="300"/>
 
+# Índice
 [1. Introducción](introducción.md)  
 
 [2. Sistemas de control de versiones: Git](sistemas.md)  
