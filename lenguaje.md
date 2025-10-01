@@ -5,7 +5,7 @@ Markdown es un lenguaje de marcado ligero que permite dar formato a texto plano 
 Se usa principalmente para documentación, blogs, foros y archivos README.
 
 ## Historia
-![John Gruber](img/john-gruber-wwdc.png)
+![John Gruber](img/john.png)
 
 Markdown fue creado en 2004 por **John Gruber** con la colaboración de **Aaron Swartz**.  
 Su objetivo fue crear una sintaxis fácil de leer y escribir, que pudiera convertirse en HTML válido.
